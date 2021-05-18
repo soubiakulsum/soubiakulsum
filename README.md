@@ -1,11 +1,23 @@
-Hi there 👋
+# Hi there 👋
+I am Soubia Kulsum from Anantapuram, India. I am skilled in Android Development, Java, Kotlin and its frameworks.
 
-<ul>
-  
-<li>🌱 Android Enthusiastic</li>
+### 😄 Pronouns
+She/Her
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/soubia-kulsum/" rel="nofollow">Soubia Kulsum</a></li>
-<li>⚡ Can code!</li>
+### 🌱 What do I do?
+- ✔️ Though I hold graduate degree in Electrical and electronics Engineering , I aspire to work as a programmer.
+
+- ✔️I'm an avid learner looking for interesting career opportunities in Android Development. 
+
+
+### ⚡ One line that describes me best? 
+A hard working girl who enjoys good humour & coding.😉😉
+
+### 📫 How can you reach me?
+Connect with me on [Twitter](https://twitter.com/soubia_kulsum) or [LinkedIn](https://www.linkedin.com/in/soubia-kulsum/).
+
+### 💬 Want to know more about me?
+You can find my work on my [Portfolio](https://soubiakulsum.github.io/).
 </ul>
 
 
