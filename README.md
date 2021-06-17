@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there ! 👋</h1>
 I am Soubia Kulsum from  India. I am skilled in Android Development, Java, Kotlin and its frameworks.
 
 ### 😄 Pronouns
