@@ -24,7 +24,7 @@ You can find my work on my [Portfolio](https://soubiakulsum.github.io/).
 ---
 🧰 Toolbox
  
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  <img src="https://i.ytimg.com/an/aAmP-WcI6dg/503422970480686737_mq.jpg?v=60ad54a1" alt="Flutter logo" width="50" height="50"/>       
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  <img src="https://i.ytimg.com/an/aAmP-WcI6dg/503422970480686737_mq.jpg?v=60ad54a1" alt="Flutter logo" width="50" height="50"/>       
 
 ---
 
