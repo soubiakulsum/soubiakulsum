@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ! 👋</h1>
-I am Soubia Kulsum from  India. I am skilled in Android Development, Java, Kotlin and its frameworks.
+I am Soubia Kulsum from  India. I am skilled in Android Development, Java, Kotlin and Flutter.
 
 ### 😄 Pronouns
 She/Her
@@ -7,7 +7,7 @@ She/Her
 ### 🌱 What do I do?
 - ✔️ Though I hold a graduate degree in Electrical and electronics Engineering , I aspire to work as a programmer.
 
-- ✔️I'm an avid learner and enthusiastic about the work I do , looking for interesting career opportunities in Android Development. 
+- ✔️I'm an avid learner and enthusiastic about the work I do , looking for interesting career opportunities in Android and Flutter Development. 
 
 
 ### ⚡ One line that describes me best? 
@@ -24,7 +24,7 @@ You can find my work on my [Portfolio](https://soubiakulsum.github.io/).
 ---
 🧰 Toolbox
  
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>       
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android logo" width="50" height="50"/>            <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>  <img src="https://i.ytimg.com/an/aAmP-WcI6dg/503422970480686737_mq.jpg?v=60ad54a1" alt="Flutter logo" width="50" height="50"/>       
 
 ---
 
