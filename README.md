@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ! 👋</h1>
-I am Soubia Kulsum from  India. I am skilled in Android Development, Java, Kotlin and Flutter.
+I am Soubia Kulsum . I am skilled in Android Development, Java, Kotlin and Flutter.
 
 ### 😄 Pronouns
 She/Her
